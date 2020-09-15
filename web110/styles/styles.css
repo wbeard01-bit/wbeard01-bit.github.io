@@ -1,0 +1,39 @@
+
+#appalachian {
+	border: 4px solid black;
+	width: 524px;
+	height: 455px;
+	margin: auto;
+    	
+}
+.background {
+	background-color: lightblue;
+}
+@font-face {
+  font-family: "RussoOne-Regular";
+  src: url("RussoOne-Regular.ttf");
+}
+.russo {
+	font-family: RussoOne-Regular;
+}
+h1 {
+	font-family: RussoOne-Regular;
+	text-align: center;
+}
+#main {
+	font-family: RussoOne-Regular;
+	
+}
+p {
+	text-align: center;
+}
+#links {
+	
+	display: flex;
+	justify-content: space-evenly;
+	border: 2px solid black;
+	font-weight: bold;
+}
+.center {
+	margin: center;
+}
